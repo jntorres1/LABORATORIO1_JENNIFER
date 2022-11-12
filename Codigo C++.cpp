@@ -3,28 +3,12 @@
 using namespace std;
 
 int main() {
-	string apellido;
-	string contra1;
-	string contrasena;
-	int id;
-	int id1;
-	string idestu;
-	string linea;
-	string nombre;
-	float nota1;
-	float nota2;
-	float nota3;
-	int nrc;
-	int nrc1;
-	int nrc2;
-	int opcmd;
-	int opcme;
-	int opcmp;
+	string apellido,contra1,contrasena,idestu,linea,nombre;
 	string pausa;
-	float promedio;
+	int id,id1,nrc,nrc1,nrc2,opcmd,opcme,opcmp;
+	float nota1,nota2,nota3,promedio,total;
 	bool repite;
 	bool repite2;
-	float total;
 	string usuario;
 	// DEFINIENDO LAS VARIABLES
 	repite = true;
